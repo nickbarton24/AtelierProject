@@ -1,0 +1,3 @@
+Class LTG.ClassOne {
+
+}

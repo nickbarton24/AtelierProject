@@ -1,3 +1,4 @@
-Class LTG.ClassThree extends %Persistent {
+Class LTG.ClassThree Extends %Persistent
+{
 
 }

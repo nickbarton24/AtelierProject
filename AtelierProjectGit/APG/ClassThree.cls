@@ -1,4 +1,5 @@
-Class APG.ClassThree extends %Persistent {
+Class APG.ClassThree Extends %Persistent
+{
 
 Property Name As %String;
 
